@@ -234,7 +234,7 @@ plt.show();
 ```
 
 
-![png](~/Downloads/rare_fruits_files/rare_fruits_3_0.png)
+![png](rare_fruits_files/rare_fruits_3_0.png)
 
 
 
