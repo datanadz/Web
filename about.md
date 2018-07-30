@@ -12,4 +12,4 @@ You can find some of my work on here.
 
 ### Contact me
 
-[email@domain.com](mailto:nadim.younes@mail.utoronto.ca)
+[nadim.younes@mail.utoronto.ca](mailto:nadim.younes@mail.utoronto.ca)
