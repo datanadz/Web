@@ -234,7 +234,8 @@ plt.show();
 ```
 
 
-![png](rare_fruits_files/rare_fruits_3_0.png)
+![_config.yml]({{ site.baseurl }}/images/rare_fruits_3_0.png)
+
 
 
 
