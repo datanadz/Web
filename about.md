@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my website ! I am an aspiring data scientist based out of Toronto, Canada. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find some of my work on here. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:nadim.younes@mail.utoronto.ca)
